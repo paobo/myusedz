@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/paobo/myusedz/main/JP.txt@141.147.163.68
 https://raw.githubusercontent.com/paobo/myusedz/main/HK.txt@proxyip.amclubs.kozow.com
 https://raw.githubusercontent.com/paobo/myusedz/main/v4.txt
-https://raw.githubusercontent.com/paobo/myusedz/US.txt@proxyip.amclubs.camdvr.org
+https://raw.githubusercontent.com/paobo/myusedz/main/US.txt@proxyip.amclubs.camdvr.org
